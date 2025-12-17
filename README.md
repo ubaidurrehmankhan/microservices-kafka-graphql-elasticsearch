@@ -1,4 +1,4 @@
-# microservices-kafka-graphql-elasticsearch
+# Microservices with Kafka, Graphql & Elasticsearch 
 
 E-commerce platform built with a microservices-first approach: Kafka for event streaming, a GraphQL gateway to orchestrate services, and Elasticsearch powering product discovery.
 
